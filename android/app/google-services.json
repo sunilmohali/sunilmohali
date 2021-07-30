@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "648130051564",
+    "firebase_url": "https://magnoapp-315004-default-rtdb.firebaseio.com",
+    "project_id": "magnoapp-315004",
+    "storage_bucket": "magnoapp-315004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648130051564:android:0838e311e78cd3d50154c9",
+        "android_client_info": {
+          "package_name": "com.magno.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648130051564-d2tistgq3adnavp27tur7b7n66f9atv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magno.markets",
+            "certificate_hash": "6f6dac5da44f1defb6a74bdda7183b686f6140c0"
+          }
+        },
+        {
+          "client_id": "648130051564-u37od2gokeb0m4ps683qdvppuhj7vm4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magno.markets",
+            "certificate_hash": "19ac2645782ca1fafbdff08e0b355010ab1e8767"
+          }
+        },
+        {
+          "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREg_0boREyJ3yf0OGMHWnPlgt3ZE1REM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648130051564-9qa7tpt83h4gl2g10nahggc7o44q4jji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magno.markets-owner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648130051564:android:ae9facf6808b4e700154c9",
+        "android_client_info": {
+          "package_name": "com.magno.markets_deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREg_0boREyJ3yf0OGMHWnPlgt3ZE1REM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648130051564-9qa7tpt83h4gl2g10nahggc7o44q4jji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magno.markets-owner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648130051564:android:061956f315d8847a0154c9",
+        "android_client_info": {
+          "package_name": "com.magno.markets_owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREg_0boREyJ3yf0OGMHWnPlgt3ZE1REM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648130051564-0q13j7lv7rgvk424ji5h0b3pfeilvfba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648130051564-9qa7tpt83h4gl2g10nahggc7o44q4jji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magno.markets-owner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
